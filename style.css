@@ -1,0 +1,246 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color:rgb(226, 223, 223);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#main-container {
+    height: 900px;
+    width: 845px;
+    margin: 100px 200px;
+    margin-bottom: 0px;
+    background-color: rgb(32, 34, 33);
+    display: flex;
+}
+#first-container {
+    height: 900px;
+    width: 85px;
+}
+.three-lines {
+    margin: 20px;
+}
+.first-line {
+    height: 1px;
+    width:25px;
+    background-color: rgb(226, 223, 223);
+    margin-bottom: 4px;
+}
+.first-container-icons {
+    margin-top: 545px;
+}
+.dp img {
+    height: 30px;
+    width:30px;
+    margin-left: 22px;
+    margin-bottom: 25px;
+    border-radius: 50%;
+}
+.card img{
+    margin-left: 13px;
+    margin-bottom: 15px;
+    height: 45px;
+    width:45px;
+}
+.gallery img{
+    margin-left: 13px;
+    margin-bottom: 15px;
+    height: 45px;
+    width:45px;
+}
+.setting img {
+    height: 40px;
+    width:40px;
+    margin-left: 17px;
+    margin-bottom: 13px;
+}
+.off img{
+    margin-left: 7px;
+    height: 60px;
+    width:60px;
+}
+#sec-container {
+    height: 900px;
+    width: 350px;
+}
+ p {
+    margin:20px 0px;
+}
+.img-p-container {
+    display: flex;
+    flex-direction: column;
+}
+.img-p {
+    display:flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+.img-p img {
+    height: 25px;
+    width: 30px;
+}   
+.img-p p {
+    margin:3px 10px;
+}
+#third-container {
+    height: 900px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+#first-end {
+    height: 270px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}  
+      #first-end button {
+        width:130px;
+        height: 130px;
+        margin-right: 3px;
+        background-color: rgb(61, 61, 61);
+      }
+      .first-button button img {
+        height: 50px;
+        width:45px;
+        margin-top: 30px;  
+      }
+      .first-button button:hover {
+        border:2px solid rgb(112, 111, 111);
+        box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+        }
+        .sec-button {
+            display: flex;
+            flex-wrap: wrap;
+        }
+      .sec-button button img {
+      height: 20px;
+      width: 20px;
+      margin: 10px 5px;
+       
+      }
+      .sec-button button:hover {
+        border:2px solid rgb(112, 111, 111);
+        box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+        }
+      .third-button button img {
+            height: 50px;
+            width:45px;
+            margin-top: 30px;  
+      }
+      .third-button button:hover {
+        border:2px solid rgb(112, 111, 111);
+        box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+        }
+        .forth-button button img {
+            height: 50px;
+            width:45px;
+            margin-top: 30px; 
+       
+        }
+        .forth-button button:hover {
+          border:2px solid rgb(112, 111, 111);
+          box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+          }
+          .fifth-button button img {
+            height: 50px;
+            width:45px;
+            margin-top: 30px;
+            background-color: white;
+          }
+          .fifth-button button:hover {
+            border:2px solid rgb(112, 111, 111);
+            box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+            }
+           
+#sec-end {
+    height: 270px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#sec-end button {
+    width:130px;
+    height: 130px;
+    margin-right: 3px;
+    background-color: rgb(61, 61, 61);
+  }
+  .first-button-s button img{
+    height: 50px;
+    width:45px;
+    margin-top: 30px;
+    
+  }
+  .first-button-s button:hover {
+    border:2px solid rgb(112, 111, 111);
+    box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+    }
+  .sec-button-s button img {
+    height: 50px;
+    width:45px;
+    margin-top: 30px;
+   
+  }
+  .sec-button-s button:hover {
+    border:2px solid rgb(112, 111, 111);
+    box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+    }
+  .third-button-s button img {
+    height: 50px;
+    width:45px;
+    margin-top: 30px;
+   
+  }
+  .third-button-s button:hover {
+    border:2px solid rgb(112, 111, 111);
+    box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+    }
+    .forth-button-s  button  img {
+        height: 50px;
+        width:45px;
+        margin-top: 30px;
+    }
+    .forth-button-s button:hover {
+      border:2px solid rgb(112, 111, 111);
+      box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+      }
+      .fifth-button-s button img {
+        height: 50px;
+        width:45px;
+        margin-top: 30px;
+      }
+      .fifth-button-s button:hover {
+        border:2px solid rgb(112, 111, 111);
+        box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+        }
+        .six-button-s button {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .six-button-s button img {
+            height: 45px;
+            width:41px;
+        }
+        .six-button-s button p {
+            margin-top: 59px;
+            margin-left: 40px;   
+        }
+        .six-button-s button:hover {
+          border:2px solid rgb(112, 111, 111);
+          box-shadow: 0 1px 6px rgba(12, 10, 10, 0.28);
+          }
+footer {
+    width: 845px;
+    height:33px;
+    background-color:  rgb(32, 34, 33);
+    margin-bottom: 100px;
+    margin-left: 200px;
+    display: flex;
+}
+footer img {
+    margin:0px 10px;
+    height:25px;
+    width: 25px;
+}
